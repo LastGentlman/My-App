@@ -1,0 +1,6 @@
+[submodule "mercury-app"]
+	path = mercury-app
+	url = https://github.com/LastGentlman/mercury-app.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/LastGentlman/Backend.git
